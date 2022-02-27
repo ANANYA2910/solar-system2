@@ -1,0 +1,47 @@
+body{
+    text-align:center;
+background: linear-gradient( #0b008a 0%, #f20028 100%);
+    }
+    #mercury{
+     width:600px;
+    }
+    #venus{
+     width:500px;
+      height:500px;
+    }
+    #earth{
+     width:500px;
+      height:500px;
+    }
+    #mars{
+     width:500px;
+      height:400px;
+    }
+    #jupiter{
+     width:500px;
+      height:500px;
+    }
+    #saturn{
+     width:500px;
+      height:500px;
+    }
+    #uranus{
+     width:500px;
+      height:500px;
+    }
+    #neptune{
+     width:500px;
+      height:500px;
+    }
+    #sun{
+     width:800px;
+      
+    }
+    #solarsystem{
+     width:1000px;
+      
+    }
+    #oursolarsystem
+    {
+     color:white;
+    }
